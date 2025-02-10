@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "description": "Awesome product A",
+    "price": 20,
+    "image": "/mockData/images/Product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "description": "Amazing product B",
+    "price": 30,
+    "image": "/mockData/images/Product2.jpg"
+  }
+]
